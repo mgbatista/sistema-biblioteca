@@ -1,0 +1,7 @@
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\bin\Debug\PilhaDinamica-Exercicio.exe.config
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\bin\Debug\PilhaDinamica-Exercicio.exe
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\bin\Debug\PilhaDinamica-Exercicio.pdb
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\obj\Debug\PilhaDinamica-Exercicio.csprojAssemblyReference.cache
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\obj\Debug\PilhaDinamica-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\obj\Debug\PilhaDinamica-Exercicio.exe
+C:\Users\maiar\source\repos\PilhaDinamica-Exercicio\PilhaDinamica-Exercicio\obj\Debug\PilhaDinamica-Exercicio.pdb

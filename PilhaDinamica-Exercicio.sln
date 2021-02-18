@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilhaDinamica-Exercicio", "PilhaDinamica-Exercicio\PilhaDinamica-Exercicio.csproj", "{873AABBA-DCD1-4C58-A559-4AA96C5D80B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873AABBA-DCD1-4C58-A559-4AA96C5D80B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873AABBA-DCD1-4C58-A559-4AA96C5D80B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873AABBA-DCD1-4C58-A559-4AA96C5D80B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873AABBA-DCD1-4C58-A559-4AA96C5D80B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {879691C7-6E1D-4B11-92BC-FE9F59A29EBC}
+	EndGlobalSection
+EndGlobal
